@@ -1,5 +1,5 @@
 # Joanne
-A simple smart contract deployment whose structure follow the ERC-20 standard for Fungible Tokens in the Ethereum blockchains.
+A simple smart contract deployment whose structure follows the ERC-20 standard for Fungible Tokens in the Ethereum blockchains.
 Joanne, in honor of Joana, is a simple ERC-20 Token deployed in Python using Brownie.
 
 ---
