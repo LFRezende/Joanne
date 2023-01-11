@@ -11,3 +11,8 @@ Joanne, in honor of Joana, is a simple ERC-20 Token deployed in Python using Bro
 3. The brownie-config file maps the Open Zeppelin repository in version 4.8.0, as well as the private key for the deployment account via .env (not pushed to github, for trivial reasons).
 
   > The total supply estipulated was of one million Joanne (JOE).
+
+- Deploying ERC-20 Tokens
+
+If you intend to deploy ERC-20 Tokens based on this project, please be aware it was built without local blockchain testing in mind.
+Therefore, if you wish to deploy, please do so in a testnet, such as Goerli.
